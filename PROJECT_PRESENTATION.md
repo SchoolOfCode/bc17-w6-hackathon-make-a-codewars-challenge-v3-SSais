@@ -28,13 +28,11 @@ Please note: the first test is a control, if this does not pass then please cont
 
 Complete function 'bonusChallange'.
 
-The function will accept a string of parenthesis such as the following: '<span style="color:red;">(</span>()<span style="color:red;">)</span>()(('
+The function will accept a string of parenthesis such as the following: '**(**()**)**()(('
 
 And out put the following integer: 1
 
-The function should look for two parenthesis that are facing each other and seperated by two characters, such as: '<span style="color:red;">(</span>)(<span style="color:red;">)</span>'. These are marked in red in these examples. The fucntion should return how many there are as integers.
-
-**Example 1**.Input: '<span style="color:red;">(</span><span style="color:red;">(</span>)<span style="color:red;">)</span><span style="color:red;">)</span>)'. Expected outcome: 2.
+The function should look for two parenthesis that are facing each other and seperated by two characters, such as: '**(**)(**)**'. These are made bold in these examples. The fucntion should return how many there are as integers.
 
 ## Authors
 
